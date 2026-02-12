@@ -14,8 +14,6 @@ root.render(
     <App />
   </React.StrictMode>
 );
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
-  ]
-}
+
+
+
